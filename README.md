@@ -54,35 +54,52 @@ If the control input changes to AB = 10, then all the gates are restricted excep
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Maha Vidya J P
+RegisterNumber:  23013441
 */
 
+### CODE
 
+### MULTIPLEXER
 
+"C:\Users\admin\Pictures\Screenshots\Screenshot 2023-12-24 130529.png"
 
+### DE-MULTIPLEXER
 
-
-### RTL LOGIC  
-
-
-
-
-
-
-
-
-### TIMING DIGRAMS  
-
-
-
-
+"C:\Users\admin\Pictures\Screenshots\Screenshot 2023-12-24 130611.png"
 
 ### TRUTH TABLE 
 
+### MULTIPLEXER
+
+![image](https://github.com/Mahavidyajp/Exercise-07-Multiplexer-and-De-multiplexer/assets/144870914/bc24851d-601d-45ee-82bb-151872c6bed8)
 
 
+### DE-MULTIPLEXER
+
+![image](https://github.com/Mahavidyajp/Exercise-07-Multiplexer-and-De-multiplexer/assets/144870914/2e524b1d-42bf-4829-a9a4-8a7106e047b7)
 
 
+### RTL DIAGRAM 
 
-### RESULTS 
+### MULTIPLEXER
+
+![image](https://github.com/Mahavidyajp/Exercise-07-Multiplexer-and-De-multiplexer/assets/144870914/7a17ef01-121e-4584-98f5-c88c3bd90b2f)
+
+### DE-MULTIPLEXER
+
+![image](https://github.com/Mahavidyajp/Exercise-07-Multiplexer-and-De-multiplexer/assets/144870914/42f518a0-a2bf-4588-88a4-ba0924170508)
+
+###  TIMING DIAGRAM
+
+### MULTIPLEXER
+
+![image](https://github.com/Mahavidyajp/Exercise-07-Multiplexer-and-De-multiplexer/assets/144870914/6e21778c-956c-4aed-adea-8a27666dffad)
+
+### DE-MULTIPLEXER
+
+![image](https://github.com/Mahavidyajp/Exercise-07-Multiplexer-and-De-multiplexer/assets/144870914/d1599f1c-17f8-4d40-8928-91177f46f733)
+
+### RESULT
+
+Thus the program to design a 4x1 multiplexer and 1x4 demultiplexer is done successful.
