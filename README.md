@@ -66,7 +66,7 @@ RegisterNumber:  23013441
 
 ### DE-MULTIPLEXER
 
-"C:\Users\admin\Pictures\Screenshots\Screenshot 2023-12-24 130611.png"
+C:\Users\admin\Pictures\Screenshots\Screenshot 2023-12-24 130611.png
 
 ### TRUTH TABLE 
 
