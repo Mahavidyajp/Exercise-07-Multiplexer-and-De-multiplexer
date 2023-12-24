@@ -62,11 +62,13 @@ RegisterNumber:  23013441
 
 ### MULTIPLEXER
 
-"C:\Users\admin\Pictures\Screenshots\Screenshot 2023-12-24 130529.png"
+![Screenshot 2023-12-24 130529](https://github.com/Mahavidyajp/Exercise-07-Multiplexer-and-De-multiplexer/assets/144870914/73dd427c-b6c0-4cca-8cb9-1eeb6a6186d5)
+
 
 ### DE-MULTIPLEXER
 
-C:\Users\admin\Pictures\Screenshots\Screenshot 2023-12-24 130611.png
+![Screenshot 2023-12-24 130611](https://github.com/Mahavidyajp/Exercise-07-Multiplexer-and-De-multiplexer/assets/144870914/14ff1970-d6e9-4616-b4c2-207a9417bee3)
+
 
 ### TRUTH TABLE 
 
